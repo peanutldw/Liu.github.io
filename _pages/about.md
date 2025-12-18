@@ -20,7 +20,7 @@ My current work focuses on **applied, industry-oriented research on ChatBI and A
 ### Patents
 
 1. **一种 Text-to-SQL 智能体协同系统及方法**  
-   Chinese Invention Patent, Patent No.: **202511244851.5**
+   Chinese Invention Patent, Patent No.202511244851.5
 
 ### Awards
 
