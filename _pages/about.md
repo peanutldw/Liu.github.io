@@ -25,7 +25,7 @@ ModelScope: https://www.modelscope.cn/profile/XMUTldw
 1. **一种 Text-to-SQL 智能体协同系统及方法**  
    Chinese Invention Patent, Patent No.: **202511244851.5**
 
-#### Awards & Honors
+### Awards
 
 1. **National Third Prize**, National College Students Mathematics Competition (China)  
    全国大学生数学竞赛 国家三等奖
