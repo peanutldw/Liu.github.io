@@ -19,16 +19,16 @@ redirect_from:
 
 ### Patents
 
-1. **一种 Text-to-SQL 智能体协同系统及方法**  
+1. 一种 Text-to-SQL 智能体协同系统及方法 
    Chinese Invention Patent, Patent No.202511244851.5
 
 ### Awards
 
-1. **National Third Prize**, China Collegiate Computing Competition – Big Data Challenge, 2024  
+1. National Third Prize, China Collegiate Computing Competition – Big Data Challenge, 2024  
    中国高校计算机大赛——大数据挑战赛 全国三等奖
    
-2. **National Third Prize**, National College Students Mathematics Competition (China), 2022  
-   全国大学生数学竞赛 国家三等奖
+2. National Third Prize, National College Students Mathematics Competition (China), 2022  
+   全国大学生数学竞赛 全国三等奖
 
 ### Profiles
 
